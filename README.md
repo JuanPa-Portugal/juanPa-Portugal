@@ -13,6 +13,8 @@
 
 [![JuanPa-Portugal estadisticas en github](https://github-readme-stats.vercel.app/api?username=juanpa-Portugal)](https://github.com/anuraghazra/github-readme-stats)
   
+
+  
 <!--
 **JuanPa-Portugal/juanPa-Portugal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
