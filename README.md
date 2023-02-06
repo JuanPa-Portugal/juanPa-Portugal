@@ -1,4 +1,5 @@
-# <img width= "100"  src="https://github.com/JuanPa-Portugal/juanPa-Portugal/blob/main/image/avatarsinfondo.png"> Hola, mi nombre es Juan Pablo 👋
+<h1 align="center">Hola, mi nombre es Juan Pablo 👋 <img width= "110"  src="https://github.com/JuanPa-Portugal/juanPa-Portugal/blob/main/image/avatarsinfondo.png"> </h1>
+
 ###  full-stack developer
 
 
