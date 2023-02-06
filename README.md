@@ -1,6 +1,16 @@
-### Hola!!! a todos👋
+| <p >Hola  !!! a todos👋<br>  mi nombre es Juan Pablo   <br>`Frontend Developer`<br>`y help desk nivel 1`<br>` 2do año en la  Universidad Tecnologica Nacional UTN` </p> | <p align="center"><img width= "900" height="200" src="https://github.com/JuanPa-Portugal/juanPa-Portugal/blob/main/image/LinkedIn%20cover%20-%201.png"></p> |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 
+
+
+
+
+
+
+
+<!--
 ![github civer](https://user-images.githubusercontent.com/91083049/215176387-92bcfc1b-18c4-4eee-be7b-22589e477ee6.png)
+-->
 
 
 ### tecnologías que uso
