@@ -7,7 +7,7 @@
 
 
 
-me dedico a realizar soporte tecnico de computadoras, Freelance help desk desde hace varios años.
+me dedico a realizar **soporte tecnico de computadoras**, **Freelance help desk** desde hace varios años.
 
 En 2022 empecé a estudiar una ***tecnicatura universitaria en programación en la universidad Tecnológica Nacional UTN*** , con el  sueño de crecer como profesional dentro de la industria del desarrollo de software. Desde entonces me he dedicado a especializarme en  ***desarrollo web fullStack con javaScript y python***
 
@@ -24,7 +24,7 @@ nací en La Paz Bolivia y desde el 2010 resido en Buenos Aires(CABA) Argentina
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanPa-Portugal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- alternativa en tabla
