@@ -1,6 +1,6 @@
 <h1 align="center">Hola, mi nombre es Juan Pablo 👋 <img width= "110"src="https://github.com/JuanPa-Portugal/juanPa-Portugal/blob/main/image/avatarsinfondo.png"> </h1>
 
-###  full-stack developer
+### road to full-stack developer
 
 
 
