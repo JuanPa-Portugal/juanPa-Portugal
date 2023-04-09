@@ -12,7 +12,7 @@ me dedico a realizar **soporte tecnico de computadoras**, **Freelance help desk*
 
 En 2022 empecé a estudiar una ***tecnicatura universitaria en programación en la universidad Tecnológica Nacional UTN*** , con el  sueño de crecer como profesional dentro de la industria del desarrollo de software. Desde entonces me he dedicado a especializarme en  ***desarrollo web fullStack con javaScript y python***
 
-Actualmente resido en Buenos Aires(CABA) Argentina 
+Actualmente resido en Buenos Aires(CABA) Argentina y trabajo commo Bi Analyst en SEIDOR Analytics
 
 
 | tecnologías que uso      |        | 
@@ -24,6 +24,7 @@ Actualmente resido en Buenos Aires(CABA) Argentina
 |Node.js|<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>|
 |Python|<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> |
 |Git|<code><img height="20" alt="Github" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> |
+|SQL|<code><img height="20" alt="Sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 
 <!--|React |<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>|-->
  
