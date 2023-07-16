@@ -12,7 +12,7 @@ me dedico a realizar en mis tiempos libres a dar **soporte tecnico de computador
 
 En 2022 empecé a estudiar una ***tecnicatura universitaria en programación en la universidad Tecnológica Nacional UTN regional San Rafael*** , con el  sueño de crecer como profesional dentro de la industria del desarrollo de software. Desde entonces me he dedicado a especializarme en  ***desarrollo web fullStack con javaScript y python***
 
-Actualmente resido en Buenos Aires(CABA) Argentina y trabajo commo Bi Analyst en SEIDOR Analytics, adquiriendo nuevos conocimientos como manejo de Software SAP BW, Sql Server, Excel
+Actualmente resido en Buenos Aires(CABA) Argentina y trabajo como Bi Analyst en SEIDOR Analytics, adquiriendo nuevos conocimientos como manejo de Software SAP BW, Sql Server, Excel
 
 
 | tecnologías que uso      |        | 
