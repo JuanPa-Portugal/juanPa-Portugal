@@ -1,9 +1,29 @@
-<h1>
-  <img width="110" src="https://github.com/JuanPa-Portugal/juanPa-Portugal/blob/main/image/avatarsinfondo.png">
-  Hola, mi nombre es Juan Pablo 👋
-</h1>
+<div align="center">
 
-### Data & Analytics | Data Engineering | SAP HANA | Python | SQL | Cloud
+  <img 
+    src="https://github.com/JuanPa-Portugal/juanPa-Portugal/blob/main/image/avatarsinfondo.png" 
+    width="160" 
+    style="border-radius: 50%;" 
+    alt="Avatar de Juan Pablo"
+  />
+
+  <h1>Hola, soy Juan Pablo 👋</h1>
+
+  <h3>Data Engineer | Cloud Engineer | SAP HANA & BW/4HANA</h3>
+
+  <p>
+    Construyendo soluciones de datos con foco en integración, modelado,
+    analítica y plataformas cloud.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Data%20Engineering-0A66C2?style=for-the-badge&logo=databricks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SAP%20BW%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  </p>
+
+</div>
 
 ![github cover](image/banner_2026.png)
 
@@ -12,7 +32,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy Juan Pablo, actualmente resido en Buenos Aires, Argentina 🇦🇷.
+Actualmente resido en Buenos Aires, Argentina.
 
 Trabajo como **Data Engineer en SEIDOR Analytics**, donde sigo desarrollando mi perfil profesional dentro del mundo de los datos, business intelligence, SAP y soluciones analíticas empresariales.
 
