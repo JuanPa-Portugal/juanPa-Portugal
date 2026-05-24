@@ -5,7 +5,7 @@
 
 ### Data & Analytics | Data Engineering | SAP HANA | Python | SQL | Cloud
 
-![github cover](https://user-images.githubusercontent.com/91083049/215176387-92bcfc1b-18c4-4eee-be7b-22589e477ee6.png)
+![github cover](image/banner_2026.png)
 
 
 ---
